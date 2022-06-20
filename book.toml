@@ -1,0 +1,6 @@
+[book]
+authors = ["GhostRain"]
+language = "en"
+multilingual = false
+src = "src"
+title = "gbadocs"
